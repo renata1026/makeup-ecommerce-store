@@ -29,7 +29,7 @@ Thank you for choosing Makeup 4 Life! We strive to provide you with the perfect 
 
 * Product Filtering: Users can filter makeup products based on specific criteria such as brand, shade, or skin type.
 * Product Details: Each makeup product listing provides detailed information such as ingredients, usage instructions, and customer reviews.
-* The "Add to Cart" feature allows users to conveniently select and store products they intend to purchase in their virtual shopping cart. 
+* The Add to Cart feature allows users to conveniently select and store products they intend to purchase in their virtual shopping cart. 
 
 ## Screenshots
 
