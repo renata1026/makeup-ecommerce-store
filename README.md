@@ -36,11 +36,10 @@ Thank you for choosing Makeup 4 Life! We strive to provide you with the perfect 
 
 <table>
   <tr>
-    <td><img src="./gitHubReadme/WalkTime.png" alt="Enter Walking Time"></td>
-    <td><img src="./gitHubReadme/genres.png" alt="Select Genres"></td>
-    <td><img src="./gitHubReadme/results.png" alt="Playlist Results"></td>
-    <td><img src="./gitHubReadme/savedPlaylists.png" alt="Saved Playlists"></td>
-  </tr>
+    <td><img src="./makeup-4-life-desktop.png" alt="Select Products & Price"></td>
+    <td><img src="./makeup-4-life-mobile.png" alt="Mobile Responsive"></td>
+    <td><img src="./makeup-4-life-cart.png" alt="Add to Cart"></td>
+   </tr>
 </table>
 
  
