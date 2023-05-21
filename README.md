@@ -36,9 +36,9 @@ Thank you for choosing Makeup 4 Life! We strive to provide you with the perfect 
 
 <table>
   <tr>
-    <td><img src="./makeup-4-life-desktop.png" alt="Select Products & Price"></td>
-    <td><img src="./makeup-4-life-mobile.png" alt="Mobile Responsive"></td>
-    <td><img src="./makeup-4-life-cart.png" alt="Add to Cart"></td>
+    <td><img src="./images/makeup-4-life-desktop.png" alt="Select Products & Price"></td>
+    <td><img src="./images/makeup-4-life-mobile.png" alt="Mobile Responsive"></td>
+    <td><img src="./images/makeup-4-life-cart.png" alt="Add to Cart"></td>
    </tr>
 </table>
 
