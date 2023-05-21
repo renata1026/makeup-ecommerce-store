@@ -1,6 +1,6 @@
 # Makeup4Life: Choose your perfect makeup product!  
 
-[Makeup4Life Live Link](https://makeup4life.netlify.app/)
+LIVE LINK: (https://makeup4life.netlify.app/)
 
 ## About
 
