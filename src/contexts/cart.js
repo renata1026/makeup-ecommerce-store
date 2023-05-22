@@ -25,7 +25,7 @@ export const CartProvider = ({ children }) => {
     // Use setCart to update the cart state
     setCart((currentCart) => {
       // Use filter to remove the product from the cart
-      currentCart.filter((x) => x.product.id === product.id);
+      currentCart.pop((x) => x.product.id === product.id);
       // Return a new array with the updated cart
       return [...currentCart];
     });
