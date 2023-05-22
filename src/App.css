@@ -877,20 +877,20 @@ h6 {
     flex-direction: column;
     align-items: center;
   }
-  .cart-counter {
-    background-color: red;
-    color: white;
-    padding: 4px 8px;
-    border-radius: 50%;
-    font-size: 12px;
-    font-weight: bold;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    top: 8px;
-    right: 0px;
-  }
+}
+.cart-counter {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 8px;
+  right: 0px;
 }
