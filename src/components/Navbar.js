@@ -2,8 +2,17 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ShoppingCart } from 'phosphor-react';
 import { useCart } from '../contexts/cart';
+
 const Navbar = (props) => {
   const { cart } = useCart();
+
+  const calculateCartTotalQuantity = () => {
+    let totalQuantity = 0;
+    for (const item of cart) {
+      totalQuantity += parseInt(item.amount);
+    }
+    return totalQuantity;
+  };
   return (
     <div className="wrapper">
       <div className="navbar">
@@ -17,7 +26,9 @@ const Navbar = (props) => {
               onClick={props.handleOpenCart}
               className="cartIcon"
             >
-              <span className="cart-counter"> {cart.length} </span>
+              <span className="cart-counter">
+                {calculateCartTotalQuantity()}
+              </span>
               <ShoppingCart size={32} />
             </button>
           </Link>
